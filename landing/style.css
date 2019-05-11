@@ -1,0 +1,61 @@
+body {
+	background-color:#f0e9e9;
+	font-family: Helvetica;
+	margin: 0;
+}
+
+#banner {
+
+  text-align: center;
+  background-image:url("https://visualhunt.com/photos/5/stones-wall-heart-grey-background-painted-love.jpg?s=l");
+  background-size: cover;
+  height: 38vh;
+  padding-top: 10px;
+  padding-bottom:10px;
+margin: 0;
+}
+
+#title {
+	color:#085F63;
+	font-size: 100px;
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 2px;
+
+}
+
+.small {
+	font-weight: lighter;
+	font-size: 30px;
+	color: #226b80;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	
+
+}
+
+p {
+	font-family: 'PT Sans', sans-serif;
+	color: black;
+	font-size: 24px;
+} 
+
+ul {
+	font-family: 'PT Sans', sans-serif;
+}
+a {
+	text-decoration: none;
+	color: #49BEB7;
+}
+
+a:hover {
+	color: #8b5d5d;
+}
+
+#footer {
+
+	border-style: solid;
+	border-color: white; 
+	border-spacing: 10px;
+	padding-bottom: 10px;
+	font-size: 30px;
+}
